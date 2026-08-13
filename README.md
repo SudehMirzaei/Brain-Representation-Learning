@@ -18,7 +18,6 @@ This repository explores representation learning techniques applied to brain dat
 | File | Description |
 |------|-------------|
 | [Evaluation README](Evaluation/README.md) | In-depth analysis of the UMAP projection, detailing what the clusters reveal, model behavior, and interpretation of results. |
-| **umap_visualization.png** | UMAP plot generated from embeddings extracted using ResNet-50. |
 
 🔬 *Check this after reading the docs to see the concepts applied in practice.*
 
@@ -54,7 +53,6 @@ This repository explores representation learning techniques applied to brain dat
 | Representation Learning Guide | [docs/Representation_Learning.md](docs/Representation_Learning.md) |
 | Embedding Analysis Guide | [docs/Embedding_Analysis.md](docs/Embedding_Analysis.md) |
 | UMAP Evaluation Analysis | [Evaluation/README.md](Evaluation/README.md) |
-| UMAP Visualization | [Evaluation/umap_visualization.png](Evaluation/umap_visualization.png) |
 
 ---
 
